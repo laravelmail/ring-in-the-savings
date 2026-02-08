@@ -1,0 +1,585 @@
+{
+  "body": {
+    "rows": [
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "Our Jewelry Store"
+                }
+              }
+            ],
+            "values": {
+              "padding": "10px",
+              "backgroundColor": "#110e31"
+            }
+          },
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "Custom Engagement Rings | Diamonds | Jewelry | Gold"
+                }
+              }
+            ],
+            "values": {
+              "padding": "10px"
+            }
+          },
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "Exclusive Offer via Email"
+                }
+              }
+            ],
+            "values": {
+              "padding": "10px",
+              "backgroundColor": "#292390"
+            }
+          }
+        ],
+        "values": {
+          "backgroundColor": "transparent"
+        }
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "Our Jewelry Store",
+                  "fontFamily": {
+                    "label": "Arial",
+                    "value": "arial,helvetica,sans-serif"
+                  }
+                }
+              }
+            ],
+            "values": {
+              "padding": "10px"
+            }
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "Custom Engagement Rings | Diamonds | Jewelry | Gold",
+                  "color": "#333333",
+                  "fontFamily": {
+                    "label": "Arial",
+                    "value": "arial,helvetica,sans-serif"
+                  },
+                  "padding": "10px"
+                }
+              }
+            ],
+            "values": {}
+          }
+        ],
+        "values": {
+          "backgroundColor": "transparent",
+          "padding": "10px"
+        }
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "Exclusive Offer via Email",
+                  "color": "#333333",
+                  "fontFamily": {
+                    "label": "Arial",
+                    "value": "arial,helvetica,sans-serif"
+                  },
+                  "padding": "10px"
+                }
+              }
+            ],
+            "values": {}
+          }
+        ],
+        "values": {
+          "backgroundColor": "transparent",
+          "padding": "0px"
+        }
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "Save $300",
+                  "style": {
+                    "fontFamily": "arial,helvetica,sans-serif"
+                  }
+                }
+              }
+            ],
+            "values": {
+              "padding": "15px 10px 0px"
+            }
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "Experience the magic of sparkling diamonds and stunning stones with a $300 discount. Limited time offer!",
+                  "color": "#333333",
+                  "fontFamily": {
+                    "label": "Arial",
+                    "value": "arial,helvetica,sans-serif"
+                  },
+                  "padding": "10px"
+                }
+              }
+            ],
+            "values": {}
+          }
+        ],
+        "values": {
+          "backgroundColor": "transparent"
+        }
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "Get Your Offer Now",
+                  "fontFamily": "arial,helvetica,sans-serif"
+                }
+              }
+            ],
+            "values": {
+              "padding": "10px 10px 0px"
+            }
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "image",
+                "values": {
+                  "src": {
+                    "url": "assets/1703162644502-Black_20and_20Yellow_20Elegant_20Ring_20Limited_20Edition_20Instagram_20Post_20_2_.png"
+                  },
+                  "altText": ""
+                }
+              }
+            ],
+            "values": {
+              "padding": "0px",
+              "textAlign": "center",
+              "fontFamily": {
+                "label": "Arial",
+                "value": "arial,helvetica,sans-serif"
+              },
+              "styleOverride": {
+                "maxWidth": "540px"
+              }
+            }
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "image",
+                "values": {
+                  "src": {
+                    "url": "assets/1703162644502-Black_20and_20Yellow_20Elegant_20Ring_20Limited_20Edition_20Instagram_20Post_20_2_.png"
+                  },
+                  "altText": ""
+                }
+              }
+            ],
+            "values": {
+              "padding": "0px",
+              "textAlign": "center"
+            }
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "Purchase a personalized ring worth $5,000 and receive $250 off on future purchases exceeding $500.",
+                  "color": "#333333",
+                  "fontFamily": {
+                    "label": "Arial",
+                    "value": "arial,helvetica,sans-serif"
+                  },
+                  "padding": "10px 10px 40px"
+                }
+              }
+            ],
+            "values": {}
+          }
+        ],
+        "values": {
+          "backgroundColor": "transparent"
+        }
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "image",
+                "values": {
+                  "src": {
+                    "url": "assets/1703588444613-892638.png"
+                  },
+                  "altText": "",
+                  "width": "280",
+                  "height": {
+                    "auto": true
+                  }
+                }
+              }
+            ],
+            "values": {
+              "padding": "10px"
+            }
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "image",
+                "values": {
+                  "src": {
+                    "url": "assets/1703588444613-892638.png"
+                  },
+                  "altText": "",
+                  "width": "280",
+                  "style": {
+                    "max-width": "280px"
+                  }
+                }
+              }
+            ],
+            "values": {}
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "Need assistance? Contact us today!",
+                  "color": "#ffffff",
+                  "fontFamily": {
+                    "label": "Arial",
+                    "value": "arial,helvetica,sans-serif"
+                  },
+                  "lineHeight": "140%",
+                  "textAlign": "left",
+                  "wordWrap": "break-word"
+                }
+              }
+            ],
+            "values": {
+              "padding": "71px 10px 10px"
+            }
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "Contact Us Anytime",
+                  "color": "#333333",
+                  "fontFamily": "arial,helvetica,sans-serif"
+                }
+              }
+            ],
+            "values": {
+              "padding": "0px 10px 5px 0px"
+            }
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": ""
+                }
+              }
+            ],
+            "values": {
+              "padding": "10px"
+            }
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "(012) 345-678-8",
+                  "color": "",
+                  "fontFamily": {
+                    "label": "Arial",
+                    "value": "arial,helvetica,sans-serif"
+                  }
+                }
+              }
+            ],
+            "values": {
+              "padding": "1px 15px 15px"
+            }
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "image",
+                "values": {
+                  "src": {
+                    "url": "assets/facebook.png"
+                  },
+                  "altText": "Facebook"
+                }
+              },
+              {
+                "type": "image",
+                "values": {
+                  "src": {
+                    "url": "assets/linkedin.png"
+                  },
+                  "altText": "LinkedIn"
+                }
+              },
+              {
+                "type": "image",
+                "values": {
+                  "src": {
+                    "url": "assets/instagram.png"
+                  },
+                  "altText": "Instagram"
+                }
+              },
+              {
+                "type": "image",
+                "values": {
+                  "src": {
+                    "url": "assets/x.png"
+                  },
+                  "altText": "X"
+                }
+              }
+            ],
+            "values": {
+              "padding": "40px 10px 10px",
+              "fontFamily": "arial,helvetica,sans-serif"
+            }
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "image",
+                "values": {
+                  "src": {
+                    "url": "assets/facebook.png"
+                  },
+                  "altText": "Facebook",
+                  "width": "32"
+                }
+              }
+            ],
+            "values": {
+              "padding": "0px"
+            }
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "image",
+                "values": {
+                  "src": {
+                    "url": "assets/instagram.png"
+                  },
+                  "altText": "Instagram",
+                  "width": "32"
+                }
+              }
+            ],
+            "values": {
+              "style": "-ms-interpolation-mode: bicubic;display: block !important;border: none;height: auto;float: none;max-width: 32px !important"
+            }
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "image",
+                "values": {
+                  "src": {
+                    "url": "assets/x.png"
+                  },
+                  "altText": "X",
+                  "width": "32"
+                }
+              }
+            ],
+            "values": {
+              "padding": "10px",
+              "style": "-ms-interpolation-mode: bicubic; clear: both; display: block !important; border: none; height: auto; float: none; max-width: 32px !important"
+            }
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "UNSUBSCRIBE   |   PRIVACY POLICY   |   WEB",
+                  "color": "#ffffff"
+                }
+              },
+              {
+                "type": "text",
+                "values": {
+                  "text": " ",
+                  "color": "#ffffff"
+                }
+              },
+              {
+                "type": "text",
+                "values": {
+                  "text": "Experience our latest jewelry promotion featuring exclusive savings on your preferred items.",
+                  "color": "#ffffff"
+                }
+              }
+            ],
+            "values": {
+              "padding": "10px 100px 30px",
+              "font-family": "arial,helvetica,sans-serif",
+              "text-align": "center"
+            }
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "",
+                  "color": "",
+                  "fontFamily": {
+                    "label": "",
+                    "value": "arial,helvetica,sans-serif"
+                  }
+                }
+              }
+            ],
+            "values": {
+              "padding": "0px",
+              "borderTopWidth": "1px",
+              "borderColor": "#BBBBBB"
+            }
+          }
+        ],
+        "values": {}
+      }
+    ],
+    "values": {
+      "backgroundColor": "#ffffff",
+      "contentWidth": "600px",
+      "fontFamily": {
+        "label": "Arial",
+        "value": "arial,helvetica,sans-serif"
+      }
+    }
+  },
+  "schemaVersion": 15
+}
